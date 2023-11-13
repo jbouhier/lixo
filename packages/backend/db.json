@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": "NOU78uq-7HQD697xGabzM",
+      "firstName": "Alain",
+      "lastName": "Deloin",
+      "vacations": [],
+      "inVacation": false
+    },
+    {
+      "id": "yh6WLAZdGr0OLvtsc6ZcI",
+      "firstName": "Louis",
+      "lastName": "De Fufu",
+      "vacations": [],
+      "inVacation": false
+    }
+  ]
+}

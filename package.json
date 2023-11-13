@@ -1,0 +1,11 @@
+{
+  "name": "lixo",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "1": "cd packages/assignment1 && pnpm i && npx vitest run",
+    "2": "cd packages/assignment2 && pnpm i && npx vitest run",
+    "3:backend": "cd packages/backend && pnpm i && pnpm dev",
+    "3:frontend": "cd packages/frontend && pnpm i && pnpm dev"
+  }
+}
